@@ -1,0 +1,38 @@
+﻿@model Rachel.CurrencyConverter.Models.HomeViewModel
+
+<div class="text-center">
+    <h1 class="display-4">Currency Converter</h1>
+    Amount <input id="amounttoconvert" name="amounttoconvert" type="text" />
+    From @Html.DropDownListFor(m => m.FromCurrency, Model.Currencies)
+    To   @Html.DropDownListFor(m => m.ToCurrency, Model.Currencies)
+    <div id="convertbutton" class="btn-primary">
+        Convert
+    </div>
+    Converted amount: <span id="convertedamount"></span>
+</div>
+
+<div>
+    <table>
+        <thead>
+        <th>Amount</th>
+        <th>From Currency</th>
+        <th>To Currency</th>
+        <th>Result</th>
+        <th>Date</th>
+        </thead>
+        <tbody>
+
+            @foreach (var item in Model.History)
+            {
+                <tr>
+                    <td>@item.Amount</td>
+                    <td>@item.FromCurrency</td>
+                    <td>@item.ToCurrency</td>
+                    <td>@item.Result</td>
+                    <td>@item.ConversionDate</td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>
