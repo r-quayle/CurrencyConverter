@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\r_quayle\\source\\repos\\Rachel.CurrencyConverter\\Rachel.CurrencyConverter.Flow\\Rachel.CurrencyConverter.Flow.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\r_quayle\\source\\repos\\Rachel.CurrencyConverter\\Rachel.CurrencyConverter.Flow\\Rachel.CurrencyConverter.Flow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\r_quayle\\source\\repos\\Rachel.CurrencyConverter\\Rachel.CurrencyConverter.Flow\\Rachel.CurrencyConverter.Flow.csproj",
+        "projectName": "Rachel.CurrencyConverter.Flow",
+        "projectPath": "C:\\Users\\r_quayle\\source\\repos\\Rachel.CurrencyConverter\\Rachel.CurrencyConverter.Flow\\Rachel.CurrencyConverter.Flow.csproj",
+        "packagesPath": "C:\\Users\\r_quayle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\r_quayle\\source\\repos\\Rachel.CurrencyConverter\\Rachel.CurrencyConverter.Flow\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\r_quayle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "U:\\DEV\\Liamcain\\nugetpackages": {},
+          "U:\\DEV\\Mick\\NugetPackages": {},
+          "U:\\DEV\\davef\\NugetPackages": {},
+          "U:\\LIVE\\NuGetPackages": {},
+          "http://servicetest1:8910/Vienna/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

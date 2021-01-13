@@ -1,0 +1,9 @@
+C:\Users\r_quayle\source\repos\Rachel.CurrencyConverter\Rachel.CurrencyConverter.Flow\bin\Debug\netcoreapp3.1\Rachel.CurrencyConverter.Flow.deps.json
+C:\Users\r_quayle\source\repos\Rachel.CurrencyConverter\Rachel.CurrencyConverter.Flow\bin\Debug\netcoreapp3.1\Rachel.CurrencyConverter.Flow.dll
+C:\Users\r_quayle\source\repos\Rachel.CurrencyConverter\Rachel.CurrencyConverter.Flow\bin\Debug\netcoreapp3.1\Rachel.CurrencyConverter.Flow.pdb
+C:\Users\r_quayle\source\repos\Rachel.CurrencyConverter\Rachel.CurrencyConverter.Flow\obj\Debug\netcoreapp3.1\Rachel.CurrencyConverter.Flow.csprojAssemblyReference.cache
+C:\Users\r_quayle\source\repos\Rachel.CurrencyConverter\Rachel.CurrencyConverter.Flow\obj\Debug\netcoreapp3.1\Rachel.CurrencyConverter.Flow.AssemblyInfoInputs.cache
+C:\Users\r_quayle\source\repos\Rachel.CurrencyConverter\Rachel.CurrencyConverter.Flow\obj\Debug\netcoreapp3.1\Rachel.CurrencyConverter.Flow.AssemblyInfo.cs
+C:\Users\r_quayle\source\repos\Rachel.CurrencyConverter\Rachel.CurrencyConverter.Flow\obj\Debug\netcoreapp3.1\Rachel.CurrencyConverter.Flow.csproj.CoreCompileInputs.cache
+C:\Users\r_quayle\source\repos\Rachel.CurrencyConverter\Rachel.CurrencyConverter.Flow\obj\Debug\netcoreapp3.1\Rachel.CurrencyConverter.Flow.dll
+C:\Users\r_quayle\source\repos\Rachel.CurrencyConverter\Rachel.CurrencyConverter.Flow\obj\Debug\netcoreapp3.1\Rachel.CurrencyConverter.Flow.pdb

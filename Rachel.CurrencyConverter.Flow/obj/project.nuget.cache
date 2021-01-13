@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "x5hL31DVZk8r/yXgpga/UpJ8vSVPj8Jq78JwWjLS15ysAgib2bx3pL+slmpuHiV6HG7FfMg/4osqeGrXAdL6gQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\r_quayle\\source\\repos\\Rachel.CurrencyConverter\\Rachel.CurrencyConverter.Flow\\Rachel.CurrencyConverter.Flow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\r_quayle\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\r_quayle\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\r_quayle\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\r_quayle\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

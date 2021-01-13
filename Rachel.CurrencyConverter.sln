@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rachel.CurrencyConverter", "Rachel.CurrencyConverter\Rachel.CurrencyConverter.csproj", "{2A781BE1-AF39-4FE8-A986-60E31E56F66C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rachel.CurrencyConverter.Flow", "Rachel.CurrencyConverter.Flow\Rachel.CurrencyConverter.Flow.csproj", "{F91221E2-9039-4FBC-AF62-BDBC5AE282C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A781BE1-AF39-4FE8-A986-60E31E56F66C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A781BE1-AF39-4FE8-A986-60E31E56F66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A781BE1-AF39-4FE8-A986-60E31E56F66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A781BE1-AF39-4FE8-A986-60E31E56F66C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91221E2-9039-4FBC-AF62-BDBC5AE282C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91221E2-9039-4FBC-AF62-BDBC5AE282C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91221E2-9039-4FBC-AF62-BDBC5AE282C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91221E2-9039-4FBC-AF62-BDBC5AE282C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14E78496-19CF-42F1-9998-A9B0874E2127}
+	EndGlobalSection
+EndGlobal
